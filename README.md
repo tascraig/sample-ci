@@ -1,6 +1,6 @@
 # sample-ci
 
-The simplest CI example for Node.js
+The simplest Continuous-Integration example for Node.js
 
 ## Installation
 
