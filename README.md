@@ -39,3 +39,7 @@ The simplest Continuous-Integration example for Node.js
     Time:        0.163 s
     Ran all test suites.
     ```
+
+## Credits
+
+Adapted from Jest's [Getting Started](https://jestjs.io/docs/getting-started) tutorial.
